@@ -1,4 +1,4 @@
-[babisayla@gmail.com] • [0940473258] • [Your LinkedIn/GitHub Link] • Addis Ababa, Ethiopia
+[babisayla@gmail.com] • [0940473258] • [https://github.com/babisayla-cell] • Addis Ababa, Ethiopia
 
 ## Professional Summary
 Third-year Computer Science student with hands-on academic experience in full-stack web technologies, database management, and Java development. Eager to apply my technical foundation to software testing, bug documentation, and software implementation. A fast learner who communicates clearly and thrives in collaborative team environments.
